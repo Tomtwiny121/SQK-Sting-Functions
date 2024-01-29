@@ -1,4 +1,4 @@
-# SQK-String-Functions
+# SQL-String-Functions
 SQL string functions
 © ExploreAI Academy
 
